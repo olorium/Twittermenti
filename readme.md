@@ -1,6 +1,7 @@
 ## Twittermenti - Twitter sentiment analyzing tool 
 
-![Screenshot](https://github.com/olorium/Twittermenti/blob/main/Twittermenti/Screenshot.png?raw=true)
+
+<img src="https://github.com/olorium/Twittermenti/blob/main/Twittermenti/Screenshot.png" alt="screenshot" width="200"/>
 
 ## Topics to practice with this app
 
